@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:/Users/ahmad/OneDrive/Documents/Code/ztm-ml-course/06_supervised_learning_projects/01_classification/env\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}

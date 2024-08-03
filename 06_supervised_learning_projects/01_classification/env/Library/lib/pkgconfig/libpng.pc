@@ -1,0 +1,12 @@
+prefix=C:/Users/ahmad/OneDrive/Documents/Code/ztm-ml-course/06_supervised_learning_projects/01_classification/env/Library
+exec_prefix=C:/Users/ahmad/OneDrive/Documents/Code/ztm-ml-course/06_supervised_learning_projects/01_classification/env/Library
+libdir=C:/Users/ahmad/OneDrive/Documents/Code/ztm-ml-course/06_supervised_learning_projects/01_classification/env/Library/lib
+includedir=C:/Users/ahmad/OneDrive/Documents/Code/ztm-ml-course/06_supervised_learning_projects/01_classification/env/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.39
+Requires.private: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz
+Cflags: -I${includedir}
